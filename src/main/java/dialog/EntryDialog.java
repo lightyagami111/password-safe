@@ -3,7 +3,7 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package psafe.dialog;
+package dialog;
 
 import java.io.File;
 import java.util.List;
@@ -24,7 +24,7 @@ import javafx.scene.layout.GridPane;
 import javafx.scene.layout.HBox;
 import javafx.stage.FileChooser;
 import javafx.stage.Stage;
-import psafe.data.DataSource;
+import data.DataSource;
 
 /**
  *

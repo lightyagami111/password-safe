@@ -3,14 +3,14 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package psafe.dialog;
+package dialog;
 
 import javafx.event.ActionEvent;
 import javafx.event.EventHandler;
 import javafx.scene.control.Button;
 import javafx.stage.Stage;
-import psafe.data.DataSource;
-import psafe.model.PSafeModel;
+import data.DataSource;
+import model.PSafeModel;
 
 /**
  *
