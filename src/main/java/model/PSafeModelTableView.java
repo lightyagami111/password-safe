@@ -3,7 +3,7 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package psafe.model;
+package model;
 
 import java.util.Arrays;
 import java.util.List;
@@ -15,8 +15,8 @@ import javafx.scene.control.TableColumn;
 import javafx.scene.control.TableView;
 import javafx.scene.control.TextField;
 import javafx.scene.control.cell.PropertyValueFactory;
-import psafe.data.DataSource;
-import psafe.utils.TableUtils;
+import data.DataSource;
+import utils.TableUtils;
 
 /**
  *

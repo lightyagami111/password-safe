@@ -3,11 +3,11 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package psafe.data;
+package data;
 
 import java.util.List;
-import psafe.model.PSafeModel;
-import psafe.model.PSafeModelHistory;
+import model.PSafeModel;
+import model.PSafeModelHistory;
 
 /**
  *

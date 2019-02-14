@@ -3,7 +3,7 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package psafe;
+
 
 import javafx.application.Application;
 import javafx.event.ActionEvent;
@@ -16,13 +16,13 @@ import javafx.scene.layout.AnchorPane;
 import javafx.stage.Screen;
 import javafx.stage.Stage;
 import org.controlsfx.control.TextFields;
-import psafe.data.DataSource;
-import psafe.data.DataSourceInMemoryImpl;
-import psafe.dialog.EntrySaveDialog;
-import psafe.dialog.EntryUpdateDialog;
-import psafe.dialog.HistoryDialog;
-import psafe.model.PSafeModel;
-import psafe.model.PSafeModelTableView;
+import data.DataSource;
+import data.DataSourceInMemoryImpl;
+import dialog.EntrySaveDialog;
+import dialog.EntryUpdateDialog;
+import dialog.HistoryDialog;
+import model.PSafeModel;
+import model.PSafeModelTableView;
 
 /**
  *

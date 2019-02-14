@@ -3,16 +3,16 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package psafe.data;
+package data;
 
 import java.time.Instant;
 import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.List;
 import java.util.stream.Collectors;
-import psafe.model.PSafeModel;
-import psafe.model.PSafeModelHistory;
-import psafe.utils.UnoptimizedDeepCopy;
+import model.PSafeModel;
+import model.PSafeModelHistory;
+import utils.UnoptimizedDeepCopy;
 
 
 public class DataSourceInMemoryImpl implements DataSource {

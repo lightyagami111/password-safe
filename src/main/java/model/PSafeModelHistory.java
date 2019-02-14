@@ -3,7 +3,7 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package psafe.model;
+package model;
 
 import java.time.Instant;
 import lombok.AllArgsConstructor;

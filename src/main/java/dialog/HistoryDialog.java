@@ -3,7 +3,7 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package psafe.dialog;
+package dialog;
 
 import java.time.ZoneId;
 import java.time.format.DateTimeFormatter;
@@ -16,9 +16,9 @@ import javafx.scene.control.TreeTableColumn;
 import javafx.scene.control.TreeTableColumn.CellDataFeatures;
 import javafx.scene.control.TreeTableView;
 import javafx.stage.Stage;
-import psafe.data.DataSource;
-import psafe.model.PSafeModel;
-import psafe.model.PSafeModelHistory;
+import data.DataSource;
+import model.PSafeModel;
+import model.PSafeModelHistory;
 
 /**
  *
